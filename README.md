@@ -2,9 +2,6 @@
 
 **DNAHelixView** is an interactive, real-time 3D visualization of a DNA helix built in **SwiftUI** with **SceneKit** and **CoreMotion**. The project combines scientific visualization, UI/UX design, and real-time biological data simulation to create a dynamic and immersive experience.
 
-[![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org)
-[![Platform](https://img.shields.io/badge/iOS-17.0-brightgreen.svg)](https://developer.apple.com/ios/)
-
 ---
 
 ## 🔹 Features
@@ -29,16 +26,6 @@
 - `MotionManager`: Observes device motion for tilt-based interaction
 - `ScientificBackground`: Animated particles and grid
 - `BiologicalMetricPanel` & `InfoChip`: UI components for displaying live metrics and DNA info
-
----
-
-## 💻 Screenshots / Preview
-
-![DNA Helix](https://raw.githubusercontent.com/whispem/DNA-Animation/main/preview.gif)
-
-Interactive 3D helix with pulsing biological metrics and glowing nucleotides.
-
----
 
 ---
 
