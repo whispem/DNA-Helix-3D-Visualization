@@ -1,5 +1,11 @@
 # 🧬 DNA Helix 3D Visualization
 
+[![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org)
+[![Platform](https://img.shields.io/badge/iOS-17.0-brightgreen.svg)](https://developer.apple.com/ios/)
+[![Framework](https://img.shields.io/badge/SwiftUI-Framework-blueviolet.svg)](https://developer.apple.com/xcode/swiftui/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
+
+
 **DNAHelixView** is an interactive, real-time 3D visualization of a DNA helix built in **SwiftUI** with **SceneKit** and **CoreMotion**. The project combines scientific visualization, UI/UX design, and real-time biological data simulation to create a dynamic and immersive experience.
 
 ---
