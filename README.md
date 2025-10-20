@@ -6,7 +6,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
 
 
-**DNAHelixView** is an interactive, real-time 3D visualization of a DNA helix built in **SwiftUI** with **SceneKit** and **CoreMotion**. The project combines scientific visualization, UI/UX design, and real-time biological data simulation to create a dynamic and immersive experience.
+**DNAHelixView** is an interactive, real-time 3D visualization of a DNA helix built in **SwiftUI** with **SceneKit** and **CoreMotion**. 
+The project combines scientific visualization, UI/UX design, and real-time biological data simulation to create a dynamic and immersive experience.
 
 ---
 
@@ -67,7 +68,8 @@ I’m passionate about crafting interactive visualizations and pushing the bound
 
 ## 📝 License
 
-This project is open source under the MIT License. Feel free to explore, adapt, and create your own scientific visualizations!
+This project is open source under the MIT License. 
+Feel free to explore, adapt, and create your own scientific visualizations!
 
 ---
 
