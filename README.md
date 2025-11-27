@@ -450,6 +450,7 @@ Check out my other projects:
 ## 📬 Contact
 
 - 🐛 **Issues:** [GitHub Issues](https://github.com/whispem/DNAHelixView/issues)
+- 💬 **Suggestions:** Open a discussion!
 - 💼 **LinkedIn:** [@whispem](https://www.linkedin.com/in/emilie-peretti/)
 - 📧 **Email:** contact.whispem@gmail.com
 
